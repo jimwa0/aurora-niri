@@ -7,8 +7,10 @@
 > extra tweaks, optional modules, and unrelated configs are deliberately omitted to keep things minimal and focused
 
 # aurora-niri
-an updated and modified fork of [flick0's aurora rice](https://github.com/flickowoa/dotfiles/tree/aurora) on [niri](https://github.com/YaLTeR/niri)
+a tweaked and modified fork of [flick0's aurora rice](https://github.com/flickowoa/dotfiles/tree/aurora) on [niri](https://github.com/YaLTeR/niri)
 
+## gallery
+![aurora](./assets/aurora.png)
 ## dependancies
 ```
 niri nautilus waybar waybar-mpris kitty fuzzel hyprlock swww starship wl-clipboard 
